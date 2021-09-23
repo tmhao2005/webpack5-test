@@ -4,6 +4,8 @@
   min-height: 100%;
   height: 100%;
   position: relative;
+  background: url("../images/selectingcar.png") no-repeat center bottom/contain;
+
   .app-body{
     min-height: 100%;
     height: 100%;
@@ -24,5 +26,5 @@
   overflow-y: scroll;
   min-height: 100%;
   flex:1;
-  background-color: $bg-color;
+  // background-color: $bg-color;
 }
